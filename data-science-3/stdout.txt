@@ -1,0 +1,132 @@
+============================= test session starts ==============================
+platform linux -- Python 3.7.3, pytest-4.3.1, py-1.8.0, pluggy-0.9.0 -- /home/daniel/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /home/daniel/codenation/data-science-3, inifile:
+plugins: remotedata-0.3.1, openfiles-0.3.2, doctestplus-0.3.0, arraydiff-0.3, dash-1.7.0
+collecting ... collected 4 items
+
+test_submit.py::test_q1 PASSED                                           [ 25%]
+test_submit.py::test_q2 PASSED                                           [ 50%]
+test_submit.py::test_q3 PASSED                                           [ 75%]
+test_submit.py::test_q4 PASSED                                           [100%]
+
+=============================== warnings summary ===============================
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+/home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100
+  /home/daniel/anaconda3/lib/python3.7/site-packages/statsmodels/base/wrapper.py:100: DeprecationWarning:
+  
+  `formatargspec` is deprecated since Python 3.5. Use `signature` and the `Signature` object directly
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+---- generated xml file: /home/daniel/codenation/data-science-3/output.xml -----
+==================== 4 passed, 112 warnings in 5.55 seconds ====================
